@@ -1,15 +1,38 @@
+# 👋 Hi, I'm Imran Shariff  
 
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
-<!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
-I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
+🎯 **Data Analyst | Aspiring Data Scientist**  
+Turning raw data into actionable insights using **SQL, Power BI, Excel, and Python**.  
 
+---
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](https://www.linkedin.com/in/jayrajroshan/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/roshanjayraj/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@jayrajroshan1@gmail.com)
+## 🛠️ Skills & Tools  
+- **Languages & Databases:** SQL, Python  
+- **Visualization & Reporting:** Power BI, Excel  
+- **Data Analysis:** Data Cleaning, EDA, DAX, Data Modeling  
+- **Other Interests:** Machine Learning, Business Analytics  
 
-## ⚡ Skills:
-- Node.js
-- TypeScript
-- NestJS
-- Ethereum
+---
+
+## 📂 Featured Projects  
+- 🍕 **Pizza Sales Analysis** – SQL + Power BI dashboard uncovering sales patterns and customer preferences.  
+- 📊 **Countries Capital Bot** – Machine Learning + NLP it gives country capital by giving country name as a input. 
+- 🧠 **More projects coming soon...**  
+
+---
+
+## 🌱 Currently Learning  
+- Advanced SQL (window functions, query optimization)  
+- Machine Learning with Python (pandas, matplotlib)  
+- Cloud Platforms for Analytics (AWS / Azure basics)  
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/imran542/) 
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/md_imran_shariff_/) 
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mdimranshariff300@gmail.com)  
+
+---
+
+✨ *“Data is the new oil, but insights are the fuel that drive decisions.”*  
