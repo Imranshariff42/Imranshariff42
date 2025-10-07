@@ -7,13 +7,14 @@ Turning raw data into actionable insights using **SQL, Power BI, Excel, and Pyth
 
 ## 🛠️ Skills & Tools  
 - **Languages & Databases:** SQL, Python  
-- **Visualization & Reporting:** Power BI, Excel  
+- **Visualization & Reporting:** Power BI, Excel, Tableau  
 - **Data Analysis:** Data Cleaning, EDA, DAX, Data Modeling  
 - **Other Interests:** Machine Learning, Business Analytics  
 
 ---
 
 ## 📂 Featured Projects  
+- 🚗 **OLA Rides Analytics Dashboard** – An end-to-end analytics project using Excel, SQL, and Power BI to explore ride patterns, total bookings, revenue trends, cancellation behavior (customer vs. driver), and vehicle performance through interactive dashboards.
 - 🍕 **Pizza Sales Analysis** – SQL + Power BI dashboard uncovering sales patterns and customer preferences.  
 - 📊 **Countries Capital Bot** – Machine Learning + NLP it gives country capital by giving country name as a input. 
 - 🧠 **More projects coming soon...**  
