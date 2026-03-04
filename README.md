@@ -1,4 +1,4 @@
-# Hi, I'm Imran Shariff 👋 
+<img width="2418" height="1320" alt="{86A89210-9265-4E7E-ABCF-FF079F73260D}" src="https://github.com/user-attachments/assets/9ea11f13-902d-44da-98a6-5f4d7c8a7d9f" /># Hi, I'm Imran Shariff 👋 
 
 🎯 **Data Analyst | Aspiring Data Scientist**  
 Turning raw data into actionable insights using **SQL, Excel, Python, Power BI, and Tableau**.  
@@ -14,6 +14,7 @@ Turning raw data into actionable insights using **SQL, Excel, Python, Power BI, 
 ---
 
 ## 📂 Featured Projects  
+- 🛍️ **Customer Purchase Behavior Analytics** - End-to-end data analytics project using Python + SQL + Power BI to understand customer purchases and their feedback.
 - 🚗 **OLA Rides Analytics Report** – SQL + Excel + Power BI ride analysis project to explore bookings, revenue trends, cancellations, and vehicle performance.
 - 🍕 **Pizza Sales Analysis** – SQL + Power BI dashboard uncovering sales patterns and customer preferences.  
 - 🌎 **Countries Capital Bot** – Machine Learning + NLP it gives country capital by giving country name as a input. 
@@ -22,8 +23,9 @@ Turning raw data into actionable insights using **SQL, Excel, Python, Power BI, 
 ---
 
 ## 🌱 Currently Learning  
-- Machine Learning with Python (pandas, matplotlib)  
 - Cloud Platforms for Analytics (AWS / Snowflake)  
+- Machine Learning with Python (pandas, matplotlib)
+- Generative AI for Data Analytics (LLMs, Prompt Engineering, AI Tools)
 
 ---
 
