@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Imran Shariff  
+# Hi, I'm Imran Shariff 👋 
 
 🎯 **Data Analyst | Aspiring Data Scientist**  
-Turning raw data into actionable insights using **SQL, Power BI, Excel, and Python**.  
+Turning raw data into actionable insights using **SQL, Excel, Python, Power BI, and Tableau**.  
 
 ---
 
@@ -14,7 +14,7 @@ Turning raw data into actionable insights using **SQL, Power BI, Excel, and Pyth
 ---
 
 ## 📂 Featured Projects  
-- 🚗 **OLA Rides Analytics Dashboard** – An end-to-end analytics project using SQL, Excel, and Power BI to explore ride patterns, total bookings, revenue trends, cancellation behavior (customer vs. driver), and vehicle performance through interactive dashboards.
+- 🚗 **OLA Rides Analytics Report** – SQL + Excel + Power BI ride analysis project to explore bookings, revenue trends, cancellations, and vehicle performance.
 - 🍕 **Pizza Sales Analysis** – SQL + Power BI dashboard uncovering sales patterns and customer preferences.  
 - 🌎 **Countries Capital Bot** – Machine Learning + NLP it gives country capital by giving country name as a input. 
 - 🧠 **More projects coming soon...**  
@@ -22,9 +22,8 @@ Turning raw data into actionable insights using **SQL, Power BI, Excel, and Pyth
 ---
 
 ## 🌱 Currently Learning  
-- Advanced SQL (window functions, query optimization)  
 - Machine Learning with Python (pandas, matplotlib)  
-- Cloud Platforms for Analytics (AWS / Azure basics)  
+- Cloud Platforms for Analytics (AWS / Snowflake)  
 
 ---
 
