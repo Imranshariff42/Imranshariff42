@@ -1,4 +1,4 @@
-<img width="2418" height="1320" alt="{86A89210-9265-4E7E-ABCF-FF079F73260D}" src="https://github.com/user-attachments/assets/9ea11f13-902d-44da-98a6-5f4d7c8a7d9f" /># Hi, I'm Imran Shariff 👋 
+# Hi, I'm Imran Shariff 👋 
 
 🎯 **Data Analyst | Aspiring Data Scientist**  
 Turning raw data into actionable insights using **SQL, Excel, Python, Power BI, and Tableau**.  
