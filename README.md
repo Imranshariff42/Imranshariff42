@@ -16,8 +16,8 @@ Turning raw data into actionable insights using **SQL, Excel, Python, Power BI, 
 ## 📂 Featured Projects  
 - 🛍️ **Customer Purchase Behavior Analytics** - End-to-end data analytics project using Python + SQL + Power BI to understand customer purchases and their feedback.
 - 🚗 **OLA Rides Analytics Report** – SQL + Excel + Power BI ride analysis project to explore bookings, revenue trends, cancellations, and vehicle performance.
-- 🍕 **Pizza Sales Analysis** – SQL + Power BI dashboard uncovering sales patterns and customer preferences.  
-- 🌎 **Countries Capital Bot** – Machine Learning + NLP it gives country capital by giving country name as a input. 
+- 🍕 **Pizza Sales Report** – SQL + Power BI dashboard uncovering sales patterns and customer preferences.  
+- 🌎 **AI Chatbot for Country-Capital Queries** – Machine Learning + NLP it gives country capital by giving country name as a input. 
 - 🧠 **More projects coming soon...**  
 
 ---
