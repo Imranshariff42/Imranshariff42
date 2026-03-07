@@ -1,4 +1,4 @@
-# Hi, I'm Imran Shariff 👋 
+# Hi👋, I'm Imran Shariff  
 
 🎯 **Data Analyst | Aspiring Data Scientist**  
 Turning raw data into actionable insights using **SQL, Excel, Python, Power BI, and Tableau**.  
@@ -24,7 +24,6 @@ Turning raw data into actionable insights using **SQL, Excel, Python, Power BI, 
 
 ## 🌱 Currently Learning  
 - Cloud Platforms for Analytics (AWS / Snowflake)  
-- Machine Learning with Python (pandas, matplotlib)
 - Generative AI for Data Analytics (LLMs, Prompt Engineering, AI Tools)
 
 ---
