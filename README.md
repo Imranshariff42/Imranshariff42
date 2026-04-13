@@ -1,15 +1,15 @@
  Hi👋, I'm Imran Shariff  
 
 🎯 **Data Analyst | Aspiring Data Scientist**  
-Turning raw data into actionable insights using **SQL, Excel, Python, Power BI, and Tableau**.  
+Turning raw data into actionable insights using **SQL, Excel, Python, Power BI, and Tableau with Cloud integration**.  
 
 ---
 
 ## 🛠️ Skills & Tools  
 - **Languages & Databases:** SQL (MySQL, SQL Servers, Postgresql), Python (Numpy, Pandas, Matplotlib, Seaborn) 
 - **Visualization & Reporting:** Power BI, Excel, Tableau  
-- **Data Analysis:** Data Cleaning, EDA, DAX, Data Modeling  
-- **Other Interests:** Business Analytics, Cloud Integretion
+- **Data Analysis:** Data Cleaning, Data Visualization, EDA, DAX, Data Modeling  
+- **Other Interests:** Business Analytics, Cloud Integration
 
 ---
 
