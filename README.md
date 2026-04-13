@@ -14,8 +14,8 @@ Turning raw data into actionable insights using **SQL, Excel, Python, Power BI, 
 ---
 
 ## 📂 Featured Projects  
-- 💲**Cloud-Based Financial Data Pipeline & Analysis** - CSV → Python (cleaning) → S3 → BigQuery → SQL → Power BI End-to-end cloud-based financial data analysis using Python, AWS S3, BigQuery, SQL, and Power BI
-- 🛍️ **Customer Purchase Behavior Analytics** - End-to-end data analytics project using Python + SQL + Power BI to understand customer purchases and their feedback.
+- 💲**Cloud-Based Financial Data Pipeline & Analysis** - An End-to-end cloud-based financial data analysis using Python, AWS S3, BigQuery, SQL, and Power BI
+- 🛍️ **Customer Purchase Behavior Analytics** - End-to-end data analytics project using Python, SQL, Power BI to understand customer purchases and their feedback.
 - 🚗 **OLA Rides Analytics Report** – SQL + Excel + Power BI ride analysis project to explore bookings, revenue trends, cancellations, and vehicle performance.
 - 🍕 **Pizza Sales Report** – SQL + Power BI dashboard uncovering sales patterns and customer preferences.  
 - 🌎 **AI Chatbot for Country-Capital Queries** – Machine Learning + NLP it gives country capital by giving country name as a input. 
