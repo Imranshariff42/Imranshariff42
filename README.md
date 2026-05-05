@@ -1,6 +1,6 @@
- Hi👋, I'm Imran Shariff  
+**Hi👋, I'm Imran Shariff**
 
-🎯 **Data Analyst | Aspiring Data Scientist**  
+🎯 **Data Analyst**  
 Turning raw data into actionable insights using **SQL, Excel, Python, Power BI, and Tableau with Cloud integration**.  
 
 ---
@@ -14,7 +14,7 @@ Turning raw data into actionable insights using **SQL, Excel, Python, Power BI, 
 ---
 
 ## 📂 Featured Projects  
-- 💲**Cloud-Based Financial Data Pipeline & Analysis** - An End-to-end cloud-based financial data analysis using Python, AWS S3, BigQuery, SQL, and Power BI
+- ☁️ **Cloud-Based Financial Data Pipeline & Analysis** - An End-to-end cloud-based financial data analysis using Python, AWS S3, BigQuery, SQL, and Power BI
 - 🛍️ **Customer Purchase Behavior Analytics** - End-to-end data analytics project using Python, SQL, Power BI to understand customer purchases and their feedback.
 - 🚗 **OLA Rides Analytics Report** – SQL + Excel + Power BI ride analysis project to explore bookings, revenue trends, cancellations, and vehicle performance.
 - 🍕 **Pizza Sales Report** – SQL + Power BI dashboard uncovering sales patterns and customer preferences.  
@@ -25,7 +25,7 @@ Turning raw data into actionable insights using **SQL, Excel, Python, Power BI, 
 
 ## 🌱 Currently Learning  
 - Microsoft Fabric
-- Cloud Platforms for Analytics (AWS / Snowflake
+- Cloud Platforms for Analytics (AWS / Snowflake)
 
 ---
 
